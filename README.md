@@ -1,0 +1,62 @@
+# 隐形人(YinXingRen)VPN官网注册地址｜专线测速｜价格与套餐详解
+
+![隐形人(YinXingRen)](https://i.eoht.net/airport/yinxingren_logo.webp "隐形人(YinXingRen)")
+
+## 隐形人(YinXingRen)VPN官网注册地址（当前可用｜套餐价格｜测速参考）
+
+**最低年付为星耀风暴：80GB/月、¥109/年，折合约 ¥9.08/月；常规月付从白银纪元的 144GB、¥24/月起。**
+
+**点击购买👉👉👉** [隐形人(YinXingRen)VPN官网](https://eoht.net/serve/airport/yinxingren)
+
+**本页汇总隐形人(YinXingRen)机场套餐价格、纯专线与 VLESS 协议、新客首单优惠、流媒体与 AI 支持及测速参考；价格和节点状态可能调整，购买前请以服务商结算页信息为准。**
+
+## 隐形人(YinXingRen)VPN是什么？适合哪些人使用
+
+**隐形人(YinXingRen)** 的服务介绍称由新加坡海外团队运营，以 **纯专线 + VLESS 协议**为主要特点。套餐从轻量年付延伸到大流量与定制方案，适合按每月用量比较日常备用、观影和办公需求。
+
+- 服务介绍列有香港、台湾、日本、新加坡、美国等 **60+ 核心节点**；
+- 服务商列有 **Netflix、Disney+、ChatGPT** 等支持，套餐页另列有 Prime Video、BBC、Abema、TVer、GitHub Copilot 和 Hugging Face 等场景；
+- 可用于 Clash、Shadowrocket 等兼容客户端，**通用订阅链接需要联系客服获取**，使用前请确认客户端支持 VLESS 协议及对应订阅格式；
+- 服务商介绍列有 24 小时在线客服、不满意退款及线路故障 1 小时内修复的承诺，具体适用范围、申请方式和处理安排以当前服务条款与客服确认为准。
+
+## 隐形人(YinXingRen)VPN价格与套餐对比
+
+**支付方式** 支付宝 微信支付 USDT
+
+> [!TIP]
+> - **新客首单 8 折优惠码**：`yxr888`；适用套餐与最终实付金额以结算页为准。
+> - **周期与流量**：下表保留套餐标价，未预先叠加首单优惠；流量均为每月额度，价格为对应付款周期总额。
+> - **轻量与备用**：星耀风暴为 ¥109/年、每月 80GB、按月重置，不是全年共用 80GB，也不是不限时总流量包。
+> - **短期体验**：可从白银纪元 144GB、¥24/月开始比较，再按用量选择更高流量档位。
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
+| --- | --- | --- | --- | --- | --- |
+| **星耀风暴 365天不熄** | **80GB** | - | - | ¥109 | [立即购买](https://eoht.net/serve/airport/yinxingren) |
+| **白银纪元** | **144GB** | ¥24 | ¥68.40 | ¥244.80 | [立即购买](https://eoht.net/serve/airport/yinxingren) |
+| **黄金序列** | **360GB** | ¥48 | ¥136.80 | ¥489.60 | [立即购买](https://eoht.net/serve/airport/yinxingren) |
+| **铂金至臻** | **750GB** | ¥105 | ¥299.25 | ¥1071 | [立即购买](https://eoht.net/serve/airport/yinxingren) |
+| **钻石穹顶** | **1.6TB** | ¥185 | ¥527.25 | ¥1887 | [立即购买](https://eoht.net/serve/airport/yinxingren) |
+| **王者定制版** | **500GB** | ¥680 | - | - | [立即购买](https://eoht.net/serve/airport/yinxingren) |
+
+“-”表示未列出该付款周期。王者定制版侧重独立带宽和商业使用需求，需要定制网络资源时请联系客服确认带宽配置、节点地区与交付安排。
+
+## 隐形人(YinXingRen)VPN测速参考与流媒体、AI 支持
+
+![隐形人(YinXingRen)香港、台湾、日本、新加坡和美国 VLESS 节点测速参考图](https://i.eoht.net/airport/yinxingren_speed.webp "隐形人(YinXingRen)节点测速参考图")
+
+测速图记录的测试时间为 **2026 年 7 月 20 日**，列出 60 个节点的 TLS RTT、HTTPS 延迟、平均速度与最高速度，协议栏标注为 VLESS。
+
+测速记录仅反映测试当时的网络环境，不代表所有地区、运营商和时段都能达到相同结果。购买后可结合自己的网络和常用节点，核对实际观影、办公与 AI 使用体验。
+
+完整测速图、流媒体与 AI 支持信息请查看：[完整评测](https://eoht.net/serve/airport/yinxingren)
+
+- [🔥🔥🔥2026年便宜好用的翻墙VPN机场推荐评测(长期更新 欢迎推荐)](https://eoht.net/serve/airport/summary)
+- [翻墙科学上网客户端使用教程汇总](https://eoht.net/serve/antiwall/summary)
+- [稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://eoht.net/serve/sharing/account-sharing-guide)
+- [AI 使用教程汇总｜ChatGPT、Gemini 新手入门与国内使用指南](https://eoht.net/ai/summary)
+- [国外接码平台 Hero SMS 评测（稳定 · 低价 · 高成功率）](https://eoht.net/serve/code/sms)
+
+> [!NOTE]
+> **免责声明**
+>
+> 本文仅供技术交流和学习参考，请遵守当地法律法规，合理合法使用网络服务。
