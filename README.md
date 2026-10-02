@@ -1,3 +1,5 @@
+<a id="yinxingren-vpn-review"></a>
+
 # 隐形人(YinXingRen)VPN官网注册地址｜专线测速｜价格与套餐详解
 
 ![隐形人(YinXingRen)](https://i.eoht.net/airport/yinxingren_logo.webp "隐形人(YinXingRen)")
@@ -12,7 +14,7 @@
 > - **线路与场景**：服务介绍列有纯专线、VLESS 协议与港、台、日、新、美等 60+ 节点，支持 Netflix、Disney+、ChatGPT 等服务。
 > - **支付与订阅**：支持支付宝、微信和 USDT；需要导入 Clash、Shadowrocket 等客户端时，**通用订阅链接请联系客服获取**。
 >
-> [查看套餐与优惠码](https://eoht.net/serve/airport/yinxingren#yinxingren-vpn-plans) · [查看测速参考](https://eoht.net/serve/airport/yinxingren#yinxingren-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
+> [查看套餐与优惠码](#yinxingren-vpn-plans) · [查看测速参考](#yinxingren-speed-test) · [查看机场推荐一览表](https://eoht.net/serve/airport/summary#vpn-airport-plan-comparison)
 >
 
 <a id="yinxingren-official-website"></a>
